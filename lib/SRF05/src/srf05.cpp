@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include "srf05.h"
 
+// Mode 1 Mot chan IN, mot chan OUT
 void setup_mode1(int TRIGPIN, int ECHOPIN) {
     pinMode(TRIGPIN, OUTPUT);  // Trig ~ output
     pinMode(ECHOPIN, INPUT);   // Echo ~ input
