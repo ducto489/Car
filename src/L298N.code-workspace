@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:/workspace/arduino/L298N"
+		},
+		{
+			"path": "D:/workspace/arduino/SRF05"
+		},
+		{
+			"name": "Car",
+			"path": ".."
+		}
+	]
+}
